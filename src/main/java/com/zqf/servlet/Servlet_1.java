@@ -10,5 +10,7 @@ public class Servlet_1 {
         System.out.println("hot test");
         System.out.println("master test");
         System.out.println("idea push");
+        System.out.println("idea pull v1");
+        
     }
 }
